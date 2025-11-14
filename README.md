@@ -1,5 +1,3 @@
-# Web Application Network Intrusion Detection System (NIDS) – Research Project
-
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.9+-blue.svg" />
   <img src="https://img.shields.io/badge/Framework-Scikit--Learn-orange.svg" />
@@ -8,8 +6,11 @@
   <img src="https://img.shields.io/badge/Traffic-DVWA%20Simulated-red.svg" />
   <img src="https://img.shields.io/badge/Flow%20Extraction-CICFlowMeter-yellow.svg" />
   <img src="https://img.shields.io/badge/Attacks-SQLi%20%7C%20XSS%20%7C%20Bruteforce-critical.svg" />
+  <img src="https://img.shields.io/badge/Dataset-Kaggle-blueviolet.svg" />
   <img src="https://img.shields.io/badge/Status-Research%20Project-success.svg" />
 </p>
+
+# Web Application Network Intrusion Detection System (NIDS) – Research Project
 
 This repository contains the full workflow for developing a machine-learning–based Network Intrusion Detection System (NIDS) focused on detecting application-layer web attacks:
 
