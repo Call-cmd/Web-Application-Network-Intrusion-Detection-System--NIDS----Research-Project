@@ -1,0 +1,7 @@
+*.pcap
+*.zip
+*.gz
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+Datasets/rockyou.txt
